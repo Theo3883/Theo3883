@@ -9,6 +9,7 @@
 
 - 💻  Highly motivated and enthusiastic individual with a passion for innovation and continuous learning. With a distinctive combination of creativity, dynamism, and a friendly demeanor, I am actively seeking opportunities to contribute my skills and gain valuable insights from experienced professionals in a collaborative environment
 - 📫 How to reach me: teosandu88@gmail.com
+- In prison now
 
 
 ### 🖥 Skills
