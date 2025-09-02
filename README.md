@@ -7,7 +7,9 @@
 
 [![Github](https://img.shields.io/github/followers/Theo3883?label=Follow&style=social)](https://github.com/Theo3883)
 
-- 💻  Highly motivated and enthusiastic individual with a passion for innovation and continuous learning. With a distinctive combination of creativity, dynamism, and a friendly demeanor, I am actively seeking opportunities to contribute my skills and gain valuable insights from experienced professionals in a collaborative environment
+- 💻 Highly motivated and enthusiastic individual with a passion for innovation and continuous learning. With a distinctive combination of creativity, dynamism, and friendly, I am actively seeking opportunities to contribute my skills.
+     
+     I am skilled in TypeScript, JavaScript, Python, Java with Spring, and .NET. My experience includes building modern front-end interfaces with React and Next.js, and developing robust back-end systems using Node.js, Java Spring, and .NET. I work with PostgreSQL for database integration and use Docker for containerization. I also enjoy automating tasks with Python scripts. My focus is on creating maintainable, scalable, and user-friendly solutions across the stack.
 - 📫 How to reach me: teosandu88@gmail.com
 
 
